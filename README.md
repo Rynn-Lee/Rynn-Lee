@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React-TODO<br><br>🌱 I’m currently learning React.Js | Next.Js | Express.Js | Node.Js | Sass<br><br>⚡ Fun fact: I still don't know how to fill \<head>\</head> tag xD<br><br>
+🔭 I’m currently working on various React projects<br><br>🌱 I’m currently learning React.Js | Next.Js | Express.Js | Node.Js | Sass<br><br>⚡ Fun fact: I still don't know how to fill \<head>\</head> tag xD<br><br>
 
 
 ## 🌐 Socials:
