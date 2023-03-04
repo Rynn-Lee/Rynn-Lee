@@ -32,8 +32,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rynn-lee&theme=dark&hide_border=false)<br/>
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### Also, look at this great pic I found
+<img src="http://get2.imglarger.com:8889/results/fH8DCSMm_2x.jpg" width="1024"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rynn-lee&icon=0&color=0)](https://visitcount.itsvg.in)
