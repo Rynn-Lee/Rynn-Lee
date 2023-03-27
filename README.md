@@ -33,7 +33,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rynn-lee&theme=dark&hide_border=false)<br/>
 
 ### Also, look at this random cat picture!
-<img src="https://cataas.com/cat/says/%20" height="512"/>
+<img src="https://cataas.com/cat" height="512"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rynn-lee&icon=0&color=0)](https://visitcount.itsvg.in)
