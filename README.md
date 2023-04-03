@@ -35,7 +35,7 @@
 
 
 ## 🎓 GitHub Stats:
-![MyStats](https://github-readme-stats.vercel.app/api?username=Rynn-Lee&show_icons=true&theme=dark&title_color=F68221E5&icon_color=ffffff&count_private=true&include_all_commits=true)<br/>
+![MyStats](https://github-readme-stats.vercel.app/api?username=Rynn-Lee&show_icons=true&theme=dark&title_color=F68221E5&icon_color=ffffff&count_private=true)<br/>
 
 ### Also, look at this picture of cat(s)!
 <img src="https://cataas.com/cat/says/%20" height="512"/>
