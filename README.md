@@ -7,35 +7,21 @@
 </ul>
 
 ## 💻 Tech Stack:
-⚡ I'm usually using ⚡<br><br>
-![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-black.svg?style=for-the-badge&logo=redux&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+⚡ My stack ⚡<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,nextjs,react,redux,sass,typescript,javascript,mongodb)](https://skillicons.dev)
+
+⚡ Have some skill in ⚡<br><br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,java,python,php,mysql)](https://skillicons.dev)
 
 ⚡ I'm planning to learn these someday ⚡ <br><br>
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=graphql,expressjs,electron)](https://skillicons.dev)
 
-⚡ I also know ⚡ <br><br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-⚡ I'm familiar with these a little bit ⚡ <br><br>
-![JAVA](https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=JAVA&logoColor=white)
-![PYTHON](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
-
+⚡ Apps that i have some skills in ⚡ <br><br>
+[![My Skills](https://skillicons.dev/icons?i=photoshop,blender,androidstudio)](https://skillicons.dev)
 
 ## 🎓 GitHub Stats:
-![MyStats](https://github-readme-stats.vercel.app/api?username=Rynn-Lee&show_icons=true&theme=dark&title_color=F68221E5&icon_color=ffffff&count_private=true)<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rynn-Lee&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rynn-Lee&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&background=45%2C560683%2C002E57&currStreakNum=EBEBEB)](https://git.io/streak-stats)<br/>
 
 ### Also, look at this picture of cat(s)!
 <img src="https://cataas.com/cat/says/%20" height="512"/>
