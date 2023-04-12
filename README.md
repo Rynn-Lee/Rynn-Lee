@@ -10,7 +10,7 @@
 ⚡ My stack ⚡<br><br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,nextjs,react,redux,sass,typescript,javascript,mongodb)](https://skillicons.dev)
 
-⚡ Have some skill in ⚡<br><br>
+⚡ Have some knowledge in ⚡<br><br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,java,python,php,mysql)](https://skillicons.dev)
 
 ⚡ I'm planning to learn these someday ⚡ <br><br>
