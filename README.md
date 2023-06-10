@@ -2,8 +2,8 @@
 <ul>
 <li>I'm a Front-End Web Developer, i like React and NextJS</li>
 <li>I don't like php even tho i used it years ago and thought it was the best thing ever created</li>
-<li>I like cats and when no one annoys me while i'm working ( seriously, no one will find your body if you annoy me too much >:c )</li>
-<li>I like everything JS-related</li>
+<li>I like cats and when no one annoys me while i'm working</li>
+<li>Too innocent and kind for this world</li>
 </ul>
 
 ## 🔥 What am i up to right now?
