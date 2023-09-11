@@ -1,4 +1,4 @@
-## 💫 About Me: [![](https://visitcount.itsvg.in/api?id=rynn-lee&label=Views&color=6&icon=1&pretty=true)](https://visitcount.itsvg.in)[![](https://rynn-lee-bio.vercel.app/api/getViews?github=true)](https://rynn-lee-bio.vercel.app)
+## 💫 About Me:  [![](https://visitcount.itsvg.in/api?id=rynn-lee&label=Views&color=6&icon=1&pretty=true)](https://visitcount.itsvg.in)[![](https://rynn-lee-bio.vercel.app/api/getViews?github=true)](https://rynn-lee-bio.vercel.app)
 <ul>
 <li>I'm a Front-End Web Developer, i like React and NextJS</li>
 <li>I don't like php even tho i used it years ago and thought it was the best thing ever created</li>
