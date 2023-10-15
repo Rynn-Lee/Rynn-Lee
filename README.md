@@ -28,7 +28,6 @@
 
 ## 🎓 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rynn-Lee&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rynn-Lee&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&background=45%2C560683%2C002E57&currStreakNum=EBEBEB)](https://git.io/streak-stats)<br/>
 
 ## 🐈 Also, look at this picture of cat(s)!
 <img src="https://cataas.com/cat/says/%20" height="512"/>
