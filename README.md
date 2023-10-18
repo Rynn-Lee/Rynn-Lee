@@ -8,9 +8,8 @@
 
 ## 🔥 What am i up to right now?
 <ul>
-<li>I'm learning how Next.js and Node.js are working</li>
 <li>Exploring new libraries and possibilities for my future projects</li>
-<li>Right now I'm working on a big project with the goal of managing a cafe</li>
+<li>Doing various shenanigans with NextJS and Tauri</li>
 </ul>
 
 ## 💻 Tech Stack:
