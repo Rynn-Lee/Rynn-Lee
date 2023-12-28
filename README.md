@@ -26,8 +26,4 @@
 [![My Skills](https://skillicons.dev/icons?i=photoshop,blender,androidstudio)](https://skillicons.dev)
 
 ## 🎓 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rynn-Lee&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🐈 Also, look at this picture of cat(s)!
-<img src="https://cataas.com/cat/says/%20" height="512"/>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rynn-Lee&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&background=45%2C44116ECC%2CFF6D47CC)](https://git.io/streak-stats)
