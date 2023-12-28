@@ -27,3 +27,4 @@
 
 ## 🎓 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rynn-Lee&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&background=45%2C44116ECC%2CFF6D47CC)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rynn-lee&theme=dark)
