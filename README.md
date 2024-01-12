@@ -1,30 +1,27 @@
-## 💫 About Me:  [![](https://visitcount.itsvg.in/api?id=rynn-lee&label=Views&color=6&icon=1&pretty=true)](https://visitcount.itsvg.in)[![](https://rynn-lee-bio.vercel.app/api/getViews?github=true)](https://rynn-lee-bio.vercel.app)
+## ✨ About Me:  [![](https://visitcount.itsvg.in/api?id=rynn-lee&label=Views&color=6&icon=1&pretty=true)](https://visitcount.itsvg.in)[![](https://rynn-lee-bio.vercel.app/api/getViews?github=true)](https://rynn-lee-bio.vercel.app)
 <ul>
 <li>I'm a Front-End Web Developer, i like React and NextJS</li>
-<li>I don't like php even tho i used it years ago and thought it was the best thing ever created</li>
-<li>I like cats and when no one annoys me while i'm working</li>
-<li>Too innocent and kind for this world</li>
+<li>I rate myself as a Junior dev</li>
+<li>All i dream about is to take a nap whenever it's possible</li>
+<li>I always remain childish and innocent and I advise you to do the same</li>
 </ul>
 
 ## 🔥 What am i up to right now?
 <ul>
-<li>Exploring new libraries and possibilities for my future projects</li>
-<li>Doing various shenanigans with NextJS and Tauri</li>
+<li>Exploring new thing to do, new languages to learn</li>
+<li>Developing my diploma project</li>
+<li>Doing various shenanigans with JS</li>
 </ul>
 
 ## 💻 Tech Stack:
-⚡ My stack ⚡<br><br>
-[![My Skills](https://skillicons.dev/icons?i=vscode,nextjs,react,redux,sass,typescript,javascript,mongodb)](https://skillicons.dev)
+⚡ My main stack ⚡<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,nextjs,react,redux,sass,typescript,javascript,mongodb,nodejs,expressjs)](https://skillicons.dev)
 
-⚡ Have some knowledge in ⚡<br><br>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,java,python,php,mysql)](https://skillicons.dev)
+⚡ I have some knowledge how to use these languages ⚡<br><br>
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,python,rust,php,mysql,graphql)](https://skillicons.dev)
 
-⚡ I'm planning to learn these someday ⚡ <br><br>
-[![My Skills](https://skillicons.dev/icons?i=graphql,expressjs,electron)](https://skillicons.dev)
-
-⚡ Apps that i have some skills in ⚡ <br><br>
+⚡ And also some apps i've been using ⚡ <br><br>
 [![My Skills](https://skillicons.dev/icons?i=photoshop,blender,androidstudio)](https://skillicons.dev)
 
 ## 🎓 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rynn-Lee&theme=dark&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rynn-lee&theme=dark)
