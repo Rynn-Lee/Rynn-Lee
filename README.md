@@ -1,15 +1,15 @@
-## ✨ About Me:  [![](https://visitcount.itsvg.in/api?id=rynn-lee&label=Views&color=6&icon=1&pretty=true)](https://visitcount.itsvg.in)[![](https://rynn-lee-bio.vercel.app/api/getViews?github=true)](https://rynn-lee-bio.vercel.app)
+## ✨ Who're you?  [![](https://visitcount.itsvg.in/api?id=rynn-lee&label=Views&color=6&icon=1&pretty=true)](https://visitcount.itsvg.in)[![](https://rynn-lee-bio.vercel.app/api/getViews?github=true)](https://rynn-lee-bio.vercel.app)
 <ul>
-<li>I'm a JS Web Developer, mainly using NextJS</li>
-<li>All i dream about is to take a nap whenever it's possible</li>
-<li>Also I sold my soul to demons and trying to learn Java</li>
+<li>I'm a JS developer, mainly using NextJS</li>
+<li>I love playing Blue Archive because it's funny and has awesome lore</li>
+<li>Also I sold my soul to the demons in exchange for an understanding of Java</li>
 </ul>
 
-## 🔥 What am i up to right now?
+## 🔥 What are you doing?
 <ul>
-<li>Exploring new things to do, new languages to learn</li>
+<li>Learning Java, Learning React Native
 <li>Developing my diploma project</li>
-<li>Doing various shenanigans with JS and Java</li>
+<li>Trying not to fall asleep in random places because i can</li>
 </ul>
 
 ## 💻 Tech Stack:
@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,nextjs,react,redux,sass,typescript,javascript,mongodb,nodejs,expressjs)](https://skillicons.dev)
 
 ⚡ I've had some experience with ⚡<br><br>
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,python,rust,php,mysql,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,python,rust,php,mysql)](https://skillicons.dev)
 
 ⚡ Also some apps i've had experience with ⚡ <br><br>
 [![My Skills](https://skillicons.dev/icons?i=photoshop,blender,androidstudio)](https://skillicons.dev)
