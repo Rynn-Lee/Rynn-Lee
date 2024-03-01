@@ -3,6 +3,7 @@
 <li>I'm a JS developer, mainly using NextJS</li>
 <li>I love playing Blue Archive because it's funny and has awesome lore</li>
 <li>Also I sold my soul to the demons in exchange for an understanding of Java</li>
+<li>There are only 3 things i hate. Python, PHP and Tailwind</li>
 </ul>
 
 ## 🔥 What are you doing?
