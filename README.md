@@ -24,7 +24,7 @@
 [![My Skills](https://skillicons.dev/icons?i=photoshop,blender,androidstudio)](https://skillicons.dev)
 
 ## 
-![Best phare yet](https://media.discordapp.net/attachments/1203208017307504650/1203208038937403392/image.png?ex=65d041cf&is=65bdcccf&hm=71f0a34a03e560ecdc78fcbdff39c3650d5ff6f143c0066e99b31d69946ef992&=&format=webp&quality=lossless)
+![Best phare yet](https://github.com/Rynn-Lee/Rynn-Lee/blob/main/image.png)
 
 ## 🎓 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rynn-lee&theme=dark)
