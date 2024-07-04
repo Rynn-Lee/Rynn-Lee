@@ -20,7 +20,7 @@
 ⚡ Back-End Stack ⚡<br><br>
 [![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs,expressjs,mysql)](https://skillicons.dev)
 
-⚡ Package managers i'm using ⚡<br><br>
+⚡ Package managers i use ⚡<br><br>
 [![My Skills](https://skillicons.dev/icons?i=npm,pnpm)](https://skillicons.dev)
 
 ## 💻 Soft Tech Skills:
