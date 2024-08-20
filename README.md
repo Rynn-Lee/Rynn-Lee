@@ -34,7 +34,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,vscodium,androidstudio,postman,idea)](https://skillicons.dev)
 
 ## 
-![Best phare in existance](https://github.com/Rynn-Lee/Rynn-Lee/blob/main/image.png)
+![Best phrase in existence](https://github.com/Rynn-Lee/Rynn-Lee/blob/main/phrase.png)
 
 ## 🎓 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rynn-lee&theme=dark)
