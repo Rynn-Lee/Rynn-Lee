@@ -3,7 +3,7 @@
 <li>JS Dev / Java Beginner, creating React Native apps for living</li>
 <li>I love playing Blue Archive because it's cute and funny, change my mind</li>
 <li>Currently trying to understand how Java works so i can do some cool shenanigans with it</li>
-<li>If you praise Python or Tailwind, i don't like you, just so you know</li>
+<li>Not recognizing python as a programming language, more like programming cringe</li>
 </ul>
 
 ## 🔥 What are you doing?
